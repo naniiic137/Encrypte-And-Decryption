@@ -18,8 +18,8 @@ every letter is shifted a fixed number of places in the alphabet (with shift 3, 
 Requires Python 3.8+.
 
 ```bash
-git clone https://github.com/naniiic137/Encrypte-And-Decryption.git
-cd Encrypte-And-Decryption
+git clone https://github.com/naniiic137/Caesar-Cipher.git
+cd Caesar-Cipher
 
 python main.py encrypt "Hello, World!" --shift 3
 python main.py decrypt "Khoor, Zruog!" --shift 3
